@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 This is a test
 For
 github
+=======
+wow
+cool
+amazing
+>>>>>>> 9668a8b4b2150c7b5f27850848d4fd7856cc72ec
